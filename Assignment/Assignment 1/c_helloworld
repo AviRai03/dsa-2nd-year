@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main ()
+{
+    printf("Hello, World!\n");
+    printf("Welcome to C programming.");
+    return 0;
+}
+
+
+
+link:https://www.hackerrank.com/challenges/hello-world-c/submissions/code/292773796
